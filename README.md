@@ -2,10 +2,6 @@
 
 A sleek, CSS-styled chatbot interface demonstrating advanced CSS techniques and design principles.
 
-## Demo
-
-Check out the live demo: [ChatterBox Live Demo](https://mrskinzo.github.io/ChatterBox/)
-
 ## Features
 
 - Clean and responsive user interface
